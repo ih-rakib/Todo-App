@@ -1,0 +1,8 @@
+.todos{
+    width: 50%;
+    background-color: #000;
+    color: #fff;
+    padding: 0.5rem;
+    border-radius: 0.6rem;
+    min-height: 50vh;
+}
